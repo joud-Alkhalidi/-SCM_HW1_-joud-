@@ -1,5 +1,4 @@
 Configuration Management in Software Development
-
 Configuration management is important because it helps track changes
 maintain consistency, and improve collaboration in software development,
 It keeps everything organized so the team does not get confused between
